@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teclado ABNT padrão",
+      "price": 22.5
+    },
+    {
+      "id": 2,
+      "name": "Mouse Multilaiser",
+      "price": 5.8
+    },
+    {
+      "name": "Notebook",
+      "price": 1650,
+      "id": 6
+    },
+    {
+      "name": "Novo",
+      "price": 222,
+      "id": 7
+    }
+  ]
+}
